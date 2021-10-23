@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 深水无声</title>
-    <link>http://liuwhale.github.io/post/</link>
+    <link>https://liuwhale.github.io/post/</link>
     <description>Recent content in Posts on 深水无声</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 23 Oct 2021 12:31:37 +0800</lastBuildDate><atom:link href="http://liuwhale.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Oct 2021 12:31:37 +0800</lastBuildDate><atom:link href="https://liuwhale.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://liuwhale.github.io/post/my-first-post/</link>
+      <link>https://liuwhale.github.io/post/my-first-post/</link>
       <pubDate>Sat, 23 Oct 2021 12:31:37 +0800</pubDate>
       
-      <guid>http://liuwhale.github.io/post/my-first-post/</guid>
+      <guid>https://liuwhale.github.io/post/my-first-post/</guid>
       <description>
         
           &lt;h3 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h3&gt;
