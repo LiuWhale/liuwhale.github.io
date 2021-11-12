@@ -14,6 +14,20 @@
       
       <guid>https://liuwhale.github.io/post/2021-10-23/</guid>
       <description>Hello Hugo  aaa bbb ccc 55566 5687      </description>
+      <content>&lt;h3 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;aaa&lt;/li&gt;
+&lt;li&gt;bbb&lt;/li&gt;
+&lt;li&gt;ccc&lt;/li&gt;
+&lt;li&gt;55566&lt;/li&gt;
+&lt;li&gt;5687&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
     </item>
     
   </channel>
