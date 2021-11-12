@@ -5,6 +5,25 @@
     <link>https://liuwhale.github.io/tags/</link>
     <description>Recent content in Tags on 深水无声</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://liuwhale.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 12 Nov 2021 02:01:58 +0530</lastBuildDate><atom:link href="https://liuwhale.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer</title>
+      <link>https://liuwhale.github.io/tags/primer/</link>
+      <pubDate>Fri, 12 Nov 2021 02:01:58 +0530</pubDate>
+      
+      <guid>https://liuwhale.github.io/tags/primer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>todo</title>
+      <link>https://liuwhale.github.io/tags/todo/</link>
+      <pubDate>Fri, 12 Nov 2021 02:01:58 +0530</pubDate>
+      
+      <guid>https://liuwhale.github.io/tags/todo/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
