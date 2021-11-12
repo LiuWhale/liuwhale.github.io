@@ -55,6 +55,24 @@
 
 
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<script src="/vendor/js/md5.min.js"></script>
+<script>
+  var gitalk = new Gitalk({
+  clientID: 'f11286707bd5228fb35d',
+  clientSecret: 'fed36770e76c8b83231140380d6cc67d302f5e6f',
+  repo: 'Blog-Comments',
+  owner: 'LiuWhale',
+  admin: ['LiuWhale'],
+  id: md5(location.pathname),
+  distractionFreeMode: 'false'
+  });
+  window.onload = function () {
+        gitalk.render('gitalk-container')
+  }
+</script>
+
 
 
 
@@ -80,6 +98,18 @@
 
     <div class="nav-link-list">
         
+        
+            
+            
+            
+                
+            
+            
+            
+            <a class="a-block nav-link-item active" href="/post">
+                Posts
+            </a>
+            
         
     </div>
 
@@ -170,6 +200,18 @@
         <div class="drawer-menu">
             
             
+            
+                
+                
+                
+                    
+                
+                
+                
+                <a class="a-block drawer-menu-item active" href="/post">
+                    Posts
+                </a>
+                
             
             
             <div class="toc">
@@ -312,8 +354,8 @@
             <nav class="post-pagination">
 
                 
-                <a class="newer-posts" href="https://liuwhale.github.io/about/">
-			<br>About
+                <a class="newer-posts">
+			<br>
                 </a>
                 
                 
@@ -326,6 +368,8 @@
             <div class="post-comment-wrapper">
                 
 
+
+<div id="gitalk-container"></div>
 
 
 
