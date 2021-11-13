@@ -5,6 +5,16 @@
     <link>https://liuwhale.github.io/categories/</link>
     <description>Recent content in Categories on 深水无声</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://liuwhale.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 13 Nov 2021 14:50:58 +0800</lastBuildDate><atom:link href="https://liuwhale.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://liuwhale.github.io/categories/docker/</link>
+      <pubDate>Sat, 13 Nov 2021 14:50:58 +0800</pubDate>
+      
+      <guid>https://liuwhale.github.io/categories/docker/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
